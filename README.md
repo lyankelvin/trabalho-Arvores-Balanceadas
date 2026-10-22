@@ -49,13 +49,13 @@ O programa permite a execução interativa de ambas as estruturas, contabiliza o
 1. **Compilar o código:**
 
      ```bash
-     g++ -O3 main.cpp -o amazon_logistics.exe
+     g++ -O3 main.cpp -o amazon_logistics
      ```
 
 2. **Executar a aplicação:**
 
      ```bash
-     .\amazon_logistics.exe
+     .\amazon_logistics
      ```
 
 ---
